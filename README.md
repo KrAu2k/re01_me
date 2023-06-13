@@ -2,3 +2,9 @@
 2023_06_12 OpenGL
 1.glfw
 2.glewInit()配置 GLEW_STATIC
+06_13 OpenGL Shadder就是GPU里的一个程序，特殊又powerful
+buffer
+glGenBuffers
+glBindBuffer
+glBufferData
+glDrawArrays
