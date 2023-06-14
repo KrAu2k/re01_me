@@ -8,3 +8,7 @@ glGenBuffers
 glBindBuffer
 glBufferData
 glDrawArrays
+
+state machine:状态机?
+vertex shader每个顶点运行
+fragment shader每个像素点运行
