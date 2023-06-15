@@ -12,3 +12,6 @@ glDrawArrays
 state machine:状态机?
 vertex shader每个顶点运行
 fragment shader每个像素点运行
+
+06_15
+shader
