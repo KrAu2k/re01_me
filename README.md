@@ -16,3 +16,15 @@ fragment shader每个像素点运行
 06_15
 shader
 命名空间:避免命名冲突
+06_16
+glCreateShader
+glShaderSource
+glCompileShader
+Error message:glGetShaderiv();
+glGetShaderInfoLog();
+glAttachShader
+glLinkProgram
+glValidateProgram
+glDeleteShader
+glUseProgram
+glDeleteProgram
