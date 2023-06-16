@@ -15,3 +15,4 @@ fragment shader每个像素点运行
 
 06_15
 shader
+命名空间:避免命名冲突
